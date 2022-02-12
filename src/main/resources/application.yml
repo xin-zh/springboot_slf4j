@@ -1,0 +1,4 @@
+#相对路径名
+logging:
+  level:
+    root: info
